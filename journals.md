@@ -4,7 +4,7 @@ title: Journal Submissions
 permalink: /journals/
 ---
 
-## Journal of the Society of Laparoendoscopic Surgeons
+#### JSLS (Journal of the Society of Laparoendoscopic Surgeons)
 
 1. Article title
   * Must be 75 characters or less
